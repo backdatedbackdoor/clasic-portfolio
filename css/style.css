@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 15%;
+}
+.top-banner{
+    background-image: url("/images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.peter-dp{
+    width: 80%;
+}
+.heading-h1{
+    font-size: 40px;
+}
+.heading-name{
+    font-size: 50px;
+    color: rgb(255, 0, 85);
+}
+.banner-p{
+    color: grey;
+    font-weight: 500;
+}
+.pink-button{
+    background-color: rgb(255, 0, 85);
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    box-shadow: 5px 10px 35px grey;
+}
+.biography-area{
+    background-image: url("/images/biography-bg.png");
+    background-repeat: norepeat;
+}
+#download-cv{
+    width: 10px 60px;
+}
